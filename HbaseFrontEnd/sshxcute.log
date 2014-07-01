@@ -1,0 +1,89 @@
+
+=============== [2014/06/22 07:31:45, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[07:31:45] INFO:    SSHExec initializing ...
+[07:31:45] INFO:    Session initialized and associated with user credential cloudera
+[07:31:45] INFO:    SSHExec initialized successfully
+[07:31:45] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[07:31:47] INFO:    SSH connection established
+[07:31:47] INFO:    Ready to transfer local file 'E://sensor.txt' to server directory '/home/cloudera/'
+[07:31:48] INFO:    Connection channel established succesfully
+[07:31:48] INFO:    Start to upload
+[07:31:49] INFO:    Upload success
+[07:31:49] INFO:    channel disconnect
+[07:31:49] INFO:    SSH connection shutdown
+
+=============== [2014/06/22 07:32:42, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[07:32:42] INFO:    SSHExec initializing ...
+[07:32:42] INFO:    Session initialized and associated with user credential cloudera
+[07:32:42] INFO:    SSHExec initialized successfully
+[07:32:42] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[07:32:43] INFO:    SSH connection established
+[07:32:43] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/'
+[07:32:43] INFO:    Connection channel established succesfully
+[07:32:43] INFO:    Start to upload
+[07:32:43] INFO:    Upload success
+[07:32:43] INFO:    channel disconnect
+[07:32:43] INFO:    SSH connection shutdown
+
+=============== [2014/06/29 23:16:51, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[23:16:51] INFO:    SSHExec initializing ...
+[23:16:52] INFO:    Session initialized and associated with user credential group9
+[23:16:52] INFO:    SSHExec initialized successfully
+[23:16:52] INFO:    SSHExec trying to connect group9@134.193.136.147
+[23:17:02] INFO:    SSH connection established
+[23:17:02] INFO:    SSH connection shutdown
+
+=============== [2014/06/29 23:18:36, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[23:18:36] INFO:    SSHExec initializing ...
+[23:18:36] INFO:    Session initialized and associated with user credential group9
+[23:18:36] INFO:    SSHExec initialized successfully
+[23:18:36] INFO:    SSHExec trying to connect group9@134.193.136.147
+[23:18:37] INFO:    SSH connection established
+[23:18:37] INFO:    Ready to transfer local file 'C:\Users\mounika\Downloads\sensormkarampudi.txt' to server directory '/home/group9/'
+[23:18:37] INFO:    Connection channel established succesfully
+[23:18:37] INFO:    Start to upload
+[23:18:37] INFO:    Upload success
+[23:18:37] INFO:    channel disconnect
+[23:18:37] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 09:10:23, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[09:10:23] INFO:    SSHExec initializing ...
+[09:10:23] INFO:    Session initialized and associated with user credential group9
+[09:10:23] INFO:    SSHExec initialized successfully
+[09:10:23] INFO:    SSHExec trying to connect group9@134.193.136.147
+[09:10:58] INFO:    SSH connection established
+[09:10:58] INFO:    Ready to transfer local file 'C:\Users\mounika\Downloads\sensormkarampudi.txt' to server directory '/home/group9/'
+[09:10:59] INFO:    Connection channel established succesfully
+[09:10:59] INFO:    Start to upload
+[09:10:59] INFO:    Upload success
+[09:10:59] INFO:    channel disconnect
+[09:10:59] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 11:12:58, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[11:12:58] INFO:    SSHExec initializing ...
+[11:12:58] INFO:    Session initialized and associated with user credential group9
+[11:12:58] INFO:    SSHExec initialized successfully
+[11:12:58] INFO:    SSHExec trying to connect group9@134.193.136.147
+[11:13:20] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
+[11:13:20] INFO:    Ready to transfer local file 'C:\Users\mounika\Downloads\sensormkarampudi.txt' to server directory '/home/group9/'
+[11:13:20] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 11:14:33, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[11:14:33] INFO:    SSHExec initializing ...
+[11:14:34] INFO:    Session initialized and associated with user credential group9
+[11:14:34] INFO:    SSHExec initialized successfully
+[11:14:34] INFO:    SSHExec trying to connect group9@134.193.136.147
+[11:15:01] INFO:    SSH connection established
+[11:15:01] INFO:    Ready to transfer local file 'C:\Users\mounika\Downloads\sensormkarampudi.txt' to server directory '/home/group9/'
+[11:15:01] INFO:    Connection channel established succesfully
+[11:15:01] INFO:    Start to upload
+[11:15:02] INFO:    Upload success
+[11:15:02] INFO:    channel disconnect
+[11:15:02] INFO:    SSH connection shutdown
